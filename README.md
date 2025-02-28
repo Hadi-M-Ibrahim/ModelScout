@@ -26,7 +26,7 @@
 
 ---
 
-## 🔧 Installation
+## Installation
 
 Ensure you have Python installed, then install ModelScout using pip:
 
