@@ -16,7 +16,7 @@
 | Argument | Description |
 |----------|-------------|
 | `file` (Default: `./models.csv`) | Path to the CSV file |
-| `-find` | Launch interactive mode for selecting filters (Recommended) |
+| `-scout` | Launch interactive mode for selecting filters (Recommended) |
 | `--company` | Filter by company name |
 | `--performance` | Ideal performance rating (1.0-10.0) |
 | `--cost` | Ideal cost per million tokens |
