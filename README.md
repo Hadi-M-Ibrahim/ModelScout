@@ -1,6 +1,6 @@
 # ModelScout
 
-**ModelScout** is a command-line tool designed to help users filter and analyze AI models from a CSV dataset. It provides flexible filtering options and an interactive mode for ease of use.
+**ModelScout** is a command-line tool designed to help users filter and analyze AI models from a CSV dataset. It provides flexible filtering options and an interactive mode for ease of use. Modelscout uses the same recommendation algorithm as [Macros On Demand](https://github.com/Hadi-M-Ibrahim/Macros-On-Demand) a great example of my SWE work. 
 
 
 ---
