@@ -1,7 +1,6 @@
 # ModelScout
 
-**ModelScout** is a command-line tool designed to help users filter and analyze AI models from a CSV dataset. It provides flexible filtering options and an interactive mode for ease of use. Modelscout uses the same recommendation algorithm as [Macros On Demand](https://github.com/Hadi-M-Ibrahim/Macros-On-Demand) a great example of my SWE work. 
-
+**ModelScout** is a command-line tool designed to help users pick the best LLM for their needs. Modelscout uses the same recommendation algorithm as [Macros On Demand](https://github.com/Hadi-M-Ibrahim/Macros-On-Demand) a more in-depth example of my SWE work. While ModelScout is simple it serves as a useful stop-gap in the quickly evolving field of LLMs. As the name suggests ModelScout is simply a scout and should serve as the beginning, not the end of your LLM search. Subjective metrics such as performance and the degree a model is supported are gathered from various sources and forums (ie. Reddit, Google trends. etc) and are based largely on community sentiment so should be taken with a grain of salt. Further not the cost per million tokens for open source models are very rough estimates as well.
 
 ---
 
@@ -19,10 +18,10 @@
 | `file` (Default: `./models.csv`) | Path to the CSV file |
 | `-find` | Launch interactive mode for selecting filters (Recommended) |
 | `--company` | Filter by company name |
-| `--min_performance` | Minimum performance rating (1.0-10.0) |
-| `--max_cost` | Maximum cost per token |
-| `--min_context_length` | Minimum context length |
-| `--min_api_tools` | Minimum API/tools availability (1.0-10.0) |
+| `--performance` | Ideal performance rating (1.0-10.0) |
+| `--cost` | Ideal cost per million tokens |
+| `--context_length` | Ideal context length |
+| `--Support` | Ideal API/tools availability (1.0-10.0) |
 
 ---
 
