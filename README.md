@@ -21,7 +21,7 @@ git clone https://github.com/Hadi-M-Ibrahim/ModelScout.git
 cd ModelScout
 ```
 
-For more details, visit the [ModelScout PyPI page](https://pypi.org/project/modelscout/).
+For installation details, visit the [ModelScout PyPI page](https://pypi.org/project/modelscout/).
 
 ---
 
@@ -38,7 +38,7 @@ For more details, visit the [ModelScout PyPI page](https://pypi.org/project/mode
 | `--context_length`               | Ideal context length                                        |
 | `--Support`                      | Ideal API/tools availability (1.0-10.0)                     |
 
-For implemtion details visit the [ModelScout Github Repo](https://github.com/Hadi-M-Ibrahim/ModelScout).
+For implemtion details, visit the [ModelScout Github Repo](https://github.com/Hadi-M-Ibrahim/ModelScout).
 
 ---
 
