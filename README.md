@@ -4,12 +4,6 @@
 
 Subjective metrics such as performance and the degree to which a model is supported are gathered from various sources and forums (ie. Benchmarks, Reddit, Google trends. etc) and are based largely on community sentiment so should be taken with a grain of salt. Further note the cost per million tokens for open source models are very rough estimates as well with varying accuracy.
 
-## Features
-
-- **Interactive filtering**: Easily select filters step by step.
-- **Customizable**: Filter models by company, cost, performance, context length, and API/tool availability.
-- **Lightweight & Easy to Use**: Requires only Python and a CSV file.
-
 ---
 
 ## Installation
@@ -44,7 +38,9 @@ For more details, visit the [ModelScout PyPI page](https://pypi.org/project/mode
 | `--context_length`               | Ideal context length                                        |
 | `--Support`                      | Ideal API/tools availability (1.0-10.0)                     |
 
-## For implemtion details visit the [ModelScout Github Repo](https://github.com/Hadi-M-Ibrahim/ModelScout).
+For implemtion details visit the [ModelScout Github Repo](https://github.com/Hadi-M-Ibrahim/ModelScout).
+
+---
 
 ## CSV format
 
