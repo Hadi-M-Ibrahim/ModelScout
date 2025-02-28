@@ -21,7 +21,7 @@ Alternatively, you can clone the repository manually:
 git clone https://github.com/yourusername/ModelScout.git
 cd ModelScout
 
-Interactive Mode
+#Interactive Mode (Recommended)
 Use the -find argument to be guided through selecting filtering options interactively:
 modelscout models.csv -find
 
