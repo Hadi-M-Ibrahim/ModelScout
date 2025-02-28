@@ -18,6 +18,7 @@
 | `file` (Default: `./models.csv`) | Path to the CSV file |
 | `--scout` | Launch interactive mode for selecting filters (Recommended) |
 | `--company` | Filter by company name |
+| `--license` | Ideal license (1 for open source 0 for closed source) |
 | `--performance` | Ideal performance rating (1.0-10.0) |
 | `--cost` | Ideal cost per million tokens |
 | `--context_length` | Ideal context length |
