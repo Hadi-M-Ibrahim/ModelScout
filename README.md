@@ -22,7 +22,7 @@
 | `--performance` | Ideal performance rating (1.0-10.0) |
 | `--cost` | Ideal cost per million tokens |
 | `--context_length` | Ideal context length |
-| `--Support` | Ideal API/tools availability (1.0-10.0) |
+| `--support` | Ideal API/tools availability (1.0-10.0) |
 
 ---
 
