@@ -62,7 +62,7 @@ def scout_models(
     """
     Scouts models based on user preferences utilizing a euclidean distance based algorithm
     """
-    # compute scalefactor for each feature to normalize the values between 0 and 1
+    # note scalefactor for each feature to normalize the values between 0 and 1
     scale_license = 1
     scale_performance = 0.1111
     scale_cost = 0.0066
